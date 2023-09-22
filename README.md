@@ -1,3 +1,1 @@
-# quiz_app_flutter
-
-"A new Flutter project."
+# Simple Quiz app with Flutter and Dart
